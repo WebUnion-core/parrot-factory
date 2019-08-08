@@ -1,0 +1,17 @@
+{
+    "name": "parrot-factory",
+    "version": "1.0.0",
+    "main": "webpack.config.js",
+    "author": "WebUnion",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+        "build": "webpack"
+    },
+    "dependencies": {
+        "crypto-js": "^3.1.9-1",
+        "webpack": "^4.14.0",
+        "webpack-cli": "^3.0.8",
+        "webpack-spritesmith": "^0.5.1"
+    }
+}
